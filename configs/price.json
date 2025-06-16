@@ -1,0 +1,10 @@
+{
+    "af.txt": {
+        "price": 8,
+        "limit": null
+    },
+    "Hypixelunbanned.txt": {
+        "price": 8,
+        "limit": 30
+    }
+}

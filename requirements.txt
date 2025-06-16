@@ -1,0 +1,8 @@
+discord
+pandas
+openpyxl
+pytz
+datetime
+typing
+aiofiles
+requests

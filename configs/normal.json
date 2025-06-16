@@ -1,0 +1,8 @@
+{
+    "restock_channel":"",
+    "restock_notify":"",
+    "public_logs":"",
+    "private_logs":"",
+    "cooldown":"",
+    "limit_alert":""
+}
